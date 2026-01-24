@@ -1,7 +1,7 @@
-name: Generate Batman Snake
+name: name: Generate Batman Snake
 
 on:
-  # Run automatically every 24 hours
+  # Run automatically every 24 hours at midnight UTC
   schedule:
     - cron: "0 0 * * *"
   
@@ -11,7 +11,7 @@ on:
   # Run on every push to main branch
   push:
     branches:
-    - main
+      - main
 
 jobs:
   generate:
@@ -21,14 +21,14 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      # Generates a snake game from your GitHub contribution graph
+      # Generates snake animations with BOTH light and dark themes
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk@v3
         with:
           github_user_name: Nishanth0072
           outputs: |
-            dist/github-snake.svg?palette=github-light&color_snake=#1e3a5f&color_dots=#f0f0f0,#d4d4d4,#9ca3af,#4b5563,#1e3a5f
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#ffd700&color_dots=#0d0d0d,#1a1a1a,#2d2d2d,#4a4a4a,#ffd700
+            dist/github-snake-light.svg?palette=github-light&color_snake=#1e3a5f&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#ffd700&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
 
       # Push the generated files to the output branch
       - name: Push github-contribution-grid-snake.svg to output branch
