@@ -116,8 +116,8 @@ Want to see the Dark Snake in action? Check out my custom **[Batman-themed contr
 
 ### 🦇 *"The night is darkest just before the dawn. And I promise you, the dawn is coming."*
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Nishanth0072.Nishanth0072&style=for-the-badge&color=ffd700)
+[![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Nishanth0072.Nishanth0072&style=for-the-badge&color=ffd700)](https://github.com/Nishanth0072)
 
-**⭐ Star my repositories if you find them useful!**
+⭐ **Star my repositories if you find them useful!**
 
 </div>
