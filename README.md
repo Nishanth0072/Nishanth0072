@@ -1,7 +1,11 @@
 # 🦇 THE DARK KNIGHT OF CODE
 
 <div align="center">
-  
+
+<!-- Theme Toggle Instructions -->
+> **💡 Tip:** GitHub automatically displays the theme based on your system preference!  
+> Try switching your device to dark/light mode to see both versions.
+
 ### 👋 I am **NISHANTH A** - Guardian of Gotham's Digital Realm
 
 *"It's not who I am underneath, but what I code that defines me."*
@@ -49,9 +53,19 @@ const nishanth = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nishanth0072&show_icons=true&theme=dark&bg_color=0d1117&title_color=ffd700&text_color=c9d1d9&icon_color=ffd700&border_color=ffd700)
+<!-- Dark Theme Stats -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Nishanth0072&show_icons=true&theme=dark&bg_color=0d1117&title_color=ffd700&text_color=c9d1d9&icon_color=ffd700&border_color=ffd700" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Nishanth0072&show_icons=true&theme=default&bg_color=ffffff&title_color=1e3a5f&text_color=2d3748&icon_color=1e3a5f&border_color=1e3a5f" />
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Nishanth0072&show_icons=true&theme=dark&bg_color=0d1117&title_color=ffd700&text_color=c9d1d9&icon_color=ffd700&border_color=ffd700" />
+</picture>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishanth0072&layout=compact&theme=dark&bg_color=0d1117&title_color=ffd700&text_color=c9d1d9&border_color=ffd700)
+<!-- Dark/Light Theme Top Languages -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishanth0072&layout=compact&theme=dark&bg_color=0d1117&title_color=ffd700&text_color=c9d1d9&border_color=ffd700" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishanth0072&layout=compact&theme=default&bg_color=ffffff&title_color=1e3a5f&text_color=2d3748&border_color=1e3a5f" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishanth0072&layout=compact&theme=dark&bg_color=0d1117&title_color=ffd700&text_color=c9d1d9&border_color=ffd700" />
+</picture>
 
 </div>
 
@@ -61,12 +75,18 @@ const nishanth = {
 
 ### *The Dark Snake patrols the contribution grid, stopping crimes one cell at a time*
 
-<!-- Replace with your generated snake SVG files once you set up the GitHub Action -->
+<!-- Adaptive Snake Animation: Automatically switches between dark and light themes -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nishanth0072/Nishanth0072/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nishanth0072/Nishanth0072/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Nishanth0072/Nishanth0072/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nishanth0072/Nishanth0072/output/github-snake-light.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Nishanth0072/Nishanth0072/output/github-snake-dark.svg" />
 </picture>
+
+**🌓 Auto-Theme Switching Enabled!**
+- 🌙 **Dark Mode:** Gold Batman snake with green contribution grid
+- ☀️ **Light Mode:** Blue professional snake with standard GitHub colors
+
+*The snake automatically adapts when you switch your device's dark/light mode!*
 
 </div>
 
