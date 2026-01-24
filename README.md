@@ -79,14 +79,32 @@ const nishanth = {
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nishanth0072/Nishanth0072/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nishanth0072/Nishanth0072/output/github-snake-light.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Nishanth0072/Nishanth0072/output/github-snake-dark.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nishanth0072/Nishanth0072/output/github-snake-dark.svg" />
 </picture>
 
-**🌓 Auto-Theme Switching Enabled!**
-- 🌙 **Dark Mode:** Gold Batman snake with green contribution grid
-- ☀️ **Light Mode:** Blue professional snake with standard GitHub colors
+<br/>
 
-*The snake automatically adapts when you switch your device's dark/light mode!*
+🌓 **Auto-Theme Switching Enabled!**
+
+🌙 **Dark Mode:** Gold Batman snake with green contribution grid  
+☀️ **Light Mode:** Blue professional snake with standard GitHub colors
+
+> **Note:** Snake animation will appear after running the GitHub Action workflow for the first time.  
+> Go to Actions tab → "Generate Batman Snake" → Run workflow
+
+</div>
+
+## 🦇 CONTRIBUTION ACTIVITY
+
+<div align="center">
+
+### Batman's Nightly Patrols
+
+<!-- 3D Contribution Graph -->
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nishanth0072&bg_color=0d1117&color=ffd700&line=ffd700&point=ffff00&area=true&hide_border=true)](https://github.com/Nishanth0072)
+
+<!-- Contribution Streak Stats -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=Nishanth0072&theme=dark&background=0D1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideNums=FFD700&currStreakNum=FFD700&dates=C9D1D9&hide_border=true)](https://github.com/Nishanth0072)
 
 </div>
 
